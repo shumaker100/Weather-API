@@ -9,7 +9,8 @@ https://github.com/shumaker100/Weather-API
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/Weather API.png)
+
 
 
 
