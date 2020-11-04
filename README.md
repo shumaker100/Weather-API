@@ -9,7 +9,7 @@ https://github.com/shumaker100/Weather-API
 
 
 
-![alt text](http://github.com/shumaker100/Weather-ApI/WeatherAPI.jpg)
+![alt text](https://github.com/shumaker100/Weather-API/blob/main/Weather%20API.jpg)
 
 
 
