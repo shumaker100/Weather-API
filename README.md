@@ -6,7 +6,7 @@ This web app uses CSS, HTML, Javascript, Jquery and API calls.
 
 https://github.com/shumaker100/Weather-API
 
-
+https://shumaker100.github.io/Weather-API/
 
 
 ![alt text](https://github.com/shumaker100/Weather-API/blob/main/Weather%20API.jpg)
